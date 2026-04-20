@@ -1,0 +1,5 @@
+.idea
+package-lock.json
+
+gharwale-backend/target
+gharwale-frontend/node_modules
